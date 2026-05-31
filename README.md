@@ -108,7 +108,7 @@ const karthikeyan = {
 
 | Field | Details |
 |-------|---------|
-| 🏢 Domain | Embedded Systems |
+| 🏢 Domain |VLSI Desing |
 | 📅 Status | Completed |
 | 📍 Location | Tamil Nadu, India |
 | 🛠️ Work | Designed and tested embedded system modules for real-world electronics applications |
@@ -122,7 +122,7 @@ const karthikeyan = {
 
 | Field | Details |
 |-------|---------|
-| 🏢 Domain | PCB Design |
+| 🏢 Domain | VLSI Design |
 | 📅 Status | Completed |
 | 📍 Location | Tamil Nadu, India |
 | 🛠️ Work | Designed PCB circuit boards, worked on schematic capture and layout for electronics projects |
