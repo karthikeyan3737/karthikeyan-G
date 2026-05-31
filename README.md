@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://www.partysuppliesindia.com/cdn/shop/products/A3_43_fa283d51-14fb-4704-b57c-5ef5290f5a02.jpg?v=1735572737&width=3840)"/>
 
 ```javascript
 const karthikeyan = {
