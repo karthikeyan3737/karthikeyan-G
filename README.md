@@ -1,47 +1,75 @@
-<!-- 🔥 Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Karthi%20ECE&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+You are a world-class GitHub Profile README designer. Read my resume below and generate
+a complete, production-ready GitHub Profile README.md.
 
-<!-- ⚡ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Learner;IoT+Explorer;Circuit+Lover+⚡" />
-</p>
+Study these profiles for design reference:
+ github.com/DenverCoder1/DenverCoder1 (typing animation)
+ github.com/anmol098/anmol098 (code block about me)
+ github.com/trinib/trinib (dynamic style)
 
----
+── EXTRACT FROM RESUME ───────────────────────────────────────────────────────────────
+- Full name, GitHub username, location, email, LinkedIn URL
+- Role and one-line tagline
+- All languages, frameworks, cloud tools, databases, DevOps tools
+- Work experience: companies, roles, dates, locations, impact numbers
+- Top 3 projects: name, stack, description, key metrics
+- Achievements: hackathon wins, competition ranks, LeetCode stats, awards
+- Education: degree, college, year, CGPA
+- Hobbies or personal details
 
-<img align="right" alt="ECE" width="400" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+── BUILD THESE 13 SECTIONS IN ORDER ─────────────────────────────────────────────────
+1. HERO BANNER — animated gradient wave:
+ https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20
+ &height=180&section=header&text=[NAME]&fontSize=42&fontColor=fff
+ &animation=twinkling&fontAlignY=32&desc=[TAGLINE]&descAlignY=62&descSize=16
 
-### 🔌 About Me
-- 🎓 ECE Student  
-- 🔭 Interested in **Circuits, IoT & Embedded Systems**  
-- 🌱 Learning **Arduino, C, Python**  
-- ⚡ Love electronics & innovation  
+2. TYPING HEADER — use demolab.com only (not herokuapp):
+ https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28
+ &duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750
+ &lines=[LINE1];[LINE2];[LINE3];[LINE4]
+ Encode: space=+ |=%7C #=%23 +=%2B
 
----
+3. CODE-BLOCK ABOUT ME — write in primary language (Java / Python / JS).
+ Right-align this GIF:
+ <img align="right" width="380" src="https://raw.githubusercontent.com/
+ abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+ Variables: name, location, degree, stack[], currentlyLearning[], funFact, motto().
 
-### 🛠️ Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,arduino" />
-</p>
+4. TECH BADGES — flat-square, grouped by category:
+ Languages | Frameworks | Cloud & DevOps | Databases | Tools
+ https://img.shields.io/badge/[NAME]-[HEX]?style=flat-square&logo=[SLUG]&logoColor=white
 
----
+5. GITHUB STATS — vercel, dark background:
+ https://github-readme-stats.vercel.app/api?username=[u]&show_icons=true
+ &theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true
+ &bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+6. TOP LANGUAGES:
+ https://github-readme-stats.vercel.app/api/top-langs/?username=[u]&layout=compact
+ &theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd
+ &text_color=c9d1d9&langs_count=8&border_radius=10
 
----
+7. STREAK STATS:
+ https://streak-stats.demolab.com?user=[u]&theme=tokyonight-duo&hide_border=true
+ &background=0D1117&ring=70A5FD&fire=BF91F3
 
-### 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+8. ACTIVITY GRAPH:
+ https://github-readme-activity-graph.vercel.app/graph?username=[u]&theme=tokyo-night
 
----
+9. TROPHY WALL:
+ https://github-profile-trophy.vercel.app/?username=[u]&theme=tokyonight
 
-<!-- 🔥 Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
-</p>
+10. WORK EXPERIENCE — use <details> blocks
+
+11. FEATURED PROJECTS — markdown table
+
+12. ACHIEVEMENTS — markdown table
+
+13. EDUCATION + CURRENTLY LEARNING + FOOTER
+
+── OUTPUT RULES ──────────────────────────────────────────────────────────────────────
+- Replace every [u] and [username] with actual GitHub username
+- Use tokyonight theme
+- Output full README.md (no extra text)
+
+── MY RESUME ─────────────────────────────────────────────────────────────────────────
+[PASTE YOUR FULL RESUME TEXT HERE]
