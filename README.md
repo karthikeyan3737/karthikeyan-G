@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="<img align="right" alt="ECE" width="400" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">"/>
 
 ```javascript
 const karthikeyan = {
