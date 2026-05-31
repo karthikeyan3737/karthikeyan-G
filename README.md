@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40,50&height=180&section=header&text=KARTHIKEYAN%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20Project%20Maker%20%7C%20ECE%20Undergrad%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=KARTHIKEYAN%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20Project%20Maker%20%7C%20ECE%20Undergrad%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Karthikeyan+%F0%9F%91%8B;Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+PCB+Design+%7C+IoT;Building+cool+electronics+projects+%F0%9F%94%A7" alt="Typing SVG" />
