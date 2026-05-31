@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,11,20&height=180&section=header&text=KARTHIKEYAN%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20Project%20Maker%20%7C%20ECE%20Undergrad%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=green&customColorList=8,11,20&height=180&section=header&text=KARTHIKEYAN%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20Project%20Maker%20%7C%20ECE%20Undergrad%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
